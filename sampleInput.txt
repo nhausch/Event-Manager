@@ -1,0 +1,20 @@
+./MAEXE events.txt
+1
+2
+7/4/2015
+4th of July 2015
+Shoreline
+3
+8888
+New Years
+Times Square
+1
+4
+10002
+4
+10001
+1
+5
+./MAEXE events.txt
+1
+5

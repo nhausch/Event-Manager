@@ -1,0 +1,121 @@
+./MAEXE events.txt
+Welcome to my event manager.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 1
+8/1/2014   1234: Clean up the beach (Santa Cruz Beach)
+9/21/2014  2020: Celebrate Autumn
+10/31/2014 3555: Have a Halloween Festival
+11/2/2014  4466: Celebrate Earth day
+11/20/2014 6767: Help the foodbank
+1/1/2015   8888: Welcome the New Year
+1/10/1996 10000: My Birth (Mtn View Hospital)
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 2
+Enter event date (m/d/yyyy): 7/4/2015
+Enter event description: 4th of July 2015
+Enter event location (optional - press <return> to skip): 
+Shoreline
+Event saved.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 3
+Enter the ID of the event: 8888
+Enter new event description: New Years   
+Enter new event location (optional - press <return> to skip - press <space> to delete a location): 
+Times Square
+Description and location have been updated.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 1
+8/1/2014   1234: Clean up the beach (Santa Cruz Beach)
+9/21/2014  2020: Celebrate Autumn
+10/31/2014 3555: Have a Halloween Festival
+11/2/2014  4466: Celebrate Earth day
+11/20/2014 6767: Help the foodbank
+1/1/2015   8888: New Years (Times Square)
+1/10/1996 10000: My Birth (Mtn View Hospital)
+7/4/2015  10001: 4th of July 2015 (Shoreline)
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 4
+Enter the ID of the event: 10002
+Event not found.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 4
+Enter the ID of the event: 10001
+Event canceled.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 1
+8/1/2014   1234: Clean up the beach (Santa Cruz Beach)
+9/21/2014  2020: Celebrate Autumn
+10/31/2014 3555: Have a Halloween Festival
+11/2/2014  4466: Celebrate Earth day
+11/20/2014 6767: Help the foodbank
+1/1/2015   8888: New Years (Times Square)
+1/10/1996 10000: My Birth (Mtn View Hospital)
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 5
+Thank you for using my event manager.
+
+./MAEXE events.txt
+Welcome to my event manager.
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 1
+1/8/2014   1234: Clean up the beach (Santa Cruz Beach)
+21/9/2014  2020: Celebrate Autumn
+31/10/2014 3555: Have a Halloween Festival
+2/11/2014  4466: Celebrate Earth day
+20/11/2014 6767: Help the foodbank
+1/1/2015   8888: New Years (Times Square)
+10/1/1996 10000: My Birth (Mtn View Hospital)
+
+ 1. Display all events
+ 2. Create an event
+ 3. Update an event
+ 4. Cancel an event
+ 5. Exit
+: 5
+Thank you for using my event manager.
+
